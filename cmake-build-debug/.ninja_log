@@ -1,0 +1,4 @@
+# ninja log v6
+1	451	1750821689409723464	CMakeFiles/StackCalculator.dir/main.cpp.o	cdae231f98acab6c
+1	469	1750821689410167252	CMakeFiles/StackCalculator.dir/calc.cpp.o	9d7a02268c301846
+469	503	1750821689877796761	StackCalculator	17e7a1d0ab7e8988

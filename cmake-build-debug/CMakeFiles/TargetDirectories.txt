@@ -1,0 +1,3 @@
+/Users/laz/CLionProjects/StackCalculator/cmake-build-debug/CMakeFiles/StackCalculator.dir
+/Users/laz/CLionProjects/StackCalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/laz/CLionProjects/StackCalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
